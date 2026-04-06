@@ -1,8 +1,8 @@
 ---
 title: 吉田葵
 type: entity
-tags: [人物, プログラミング教育, 教育工学, 青山学院大学, フィジカルコンピューティング]
-sources: [https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbyyggdggy, https://sites.google.com/view/tukumanalab/members]
+tags: [人物, プログラミング教育, 教育工学, 青山学院大学, フィジカルコンピューティング, micro:bit]
+sources: [https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymbyyggdggy, https://sites.google.com/view/tukumanalab/members, https://codezine.jp/article/detail/10874]
 created: 2026-04-07
 updated: 2026-04-07
 ---
@@ -33,12 +33,48 @@ updated: 2026-04-07
 
 プログラミング基礎、統計入門、情報科学総合演習、プロジェクト演習入門など
 
-## 著書・論文
+## 著書
 
-- 『**はじめよう!プログラミング教育**』（共著、2017年）
-- 『**IT・Literacy プラクティス「情報科」[[entities/scratch|Scratch]]・ドリトル編**』（共著、2016年）
-- 「プログラミング科目におけるアクティブラーニング実践報告」（2017年）
-- 「ものづくり体験型授業実践及び工作機械活用事例報告」（2018年）
+### 『はじめよう!プログラミング教育 — 新しい時代の基本スキルを育む』（2017年3月）
+- **共著**: 吉田葵、[[entities/abe-kazuhiro|阿部和広]]
+- **出版社**: 日本標準（日本標準ブックレット No.18）
+- 文部科学省のプログラミング教育方針（既存教科への「プログラミング的思考」の組み込み）を解説。プログラマー育成ではなく思考力育成を目的とした教育のあり方を論じる。
+
+### 『IT・Literacy プラクティス「情報科」[[entities/scratch|Scratch]]・ドリトル編』（2016年5月）
+- **形式**: 共著
+- Scratchとドリトルを使った情報科教育の実践テキスト。
+
+## 論文
+
+### 「2018年度ものづくり体験型授業実践及び工作機械活用事例報告」（2018年12月）
+- **掲載誌**: 青山社会情報研究, pp.117-121
+- **形式**: 共著
+- 工作機械を活用したものづくり体験型授業の実践報告。
+
+### 「プログラミング科目におけるアクティブラーニング実践報告」（2017年12月）
+- **掲載誌**: 津田塾大学紀要, pp.275-286
+- **形式**: 共著
+- プログラミング教育におけるアクティブラーニング手法の実践と検証。
+
+## 国際会議発表
+
+### "A Practical Report on a Programming Course with Making Using micro:bit"（2018年8月）
+- **学会**: [Constructionism 2018](http://www.yourlearning.ie/constructionism-2018/)
+- [micro:bit](https://microbit.org/)を使ったものづくりプログラミング授業の実践報告。[[entities/yokokawa-koji|横川耕二]]の[Microbit More](https://microbit-more.github.io/index-ja.html)と関連する領域。
+
+### "Human Pictogram Unplugged — Unified Learning Environment of Computer Science Unplugged using Human Pictograms"（2018年8月）
+- **学会**: Constructionism 2018
+- ヒューマンピクトグラムを使ったCSアンプラグド（コンピュータを使わない情報科学教育）の統合学習環境。
+
+## 学会発表（国内）
+
+- 「リカレント教育プログラムにおける自己調整学習に関する一検討」（情報コミュニケーション学会 第19回全国大会、2022年3月）
+- 「女性向けITリカレント教育におけるプログラミング学習支援の試み」（情報処理学会 第84回全国大会、2022年3月）
+- 「オンラインワークショップにおける振り返りのための可視化ツールの提案」（ヒューマンインタフェース学会、2021年）
+
+## メディア
+
+- **[CodeZine対談「女の子プログラマーを増やすヒントがmicro:bitにある⁉」](https://codezine.jp/article/detail/10874)** — 石井モルナとの対談。micro:bitの教育的価値を議論。女性へのプログラミング教育で「ピンク化」（女の子らしいテーマの押し付け）を避け、多様なテーマを用意すべきと主張。無線通信機能が女子に人気（コミュニケーション的に使う傾向）という授業での観察も紹介。
 
 ## 所属学会
 
