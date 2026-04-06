@@ -24,11 +24,11 @@ updated: 2026-04-06
 
 ## 青学つくまなラボとの関係
 
-石原淳也の[[プログラミング教育]]活動における二つの柱のうち、CoderDojoは**草の根・地域コミュニティ**の軸を担う。もう一つの軸である[[青学つくまなラボ]]が大学の制度的基盤とSTEAM設備を持つのに対し、CoderDojoは誰にでも開かれた自由さとボランティア精神を特徴とする。両者は補完関係にあり、2024年にはScratch Day in Tokyoがつくまなラボで開催され、二つの軸が交差した。
+石原淳也の[[concepts/programming-education|プログラミング教育]]活動における二つの柱のうち、CoderDojoは**草の根・地域コミュニティ**の軸を担う。もう一つの軸である[[entities/tukumana-lab|青学つくまなラボ]]が大学の制度的基盤とSTEAM設備を持つのに対し、CoderDojoは誰にでも開かれた自由さとボランティア精神を特徴とする。両者は補完関係にあり、2024年にはScratch Day in Tokyoがつくまなラボで開催され、二つの軸が交差した。
 
 ## 関連ページ
 
-- [[石原淳也 — 概要]]
-- [[青学つくまなラボ]]
-- [[Scratchエコシステム]]
-- [[プログラミング教育]]
+- [[overview|石原淳也 — 概要]]
+- [[entities/tukumana-lab|青学つくまなラボ]]
+- [[entities/scratch-extensions|Scratchエコシステム]]
+- [[concepts/programming-education|プログラミング教育]]

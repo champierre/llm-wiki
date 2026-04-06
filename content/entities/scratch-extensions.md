@@ -15,7 +15,7 @@ updated: 2026-04-06
 
 | プロジェクト | 説明 | ★ |
 |---|---|---|
-| [[ML2Scratch]] | 機械学習 × Scratch | 120 |
+| [[entities/ml2scratch|ML2Scratch]] | 機械学習 × Scratch | 120 |
 | [[Facemesh2Scratch]] | 顔メッシュ検出 × Scratch | 41 |
 | [[TM2Scratch]] | Google Teachable Machine × Scratch | 31 |
 | [[PoseNet2Scratch]] | ポーズ検出 × Scratch | 30 |
@@ -43,9 +43,9 @@ updated: 2026-04-06
 
 - 「**〇〇2Scratch**」という一貫した命名規則
 - 各種センサーやAIモデルの出力をScratchのブロックとして利用可能にするブリッジ型アーキテクチャ
-- [[CoderDojo]]や教育現場で実際に活用されている
+- [[entities/coderdojo|CoderDojo]]や教育現場で実際に活用されている
 
 ## 関連ページ
 
-- [[ML2Scratch]]
-- [[石原淳也 — 概要]]
+- [[entities/ml2scratch|ML2Scratch]]
+- [[overview|石原淳也 — 概要]]

@@ -25,5 +25,5 @@ updated: 2026-04-06
 
 ## 関連ページ
 
-- [[プログラミング教育]]
-- [[石原淳也 — 概要]]
+- [[concepts/programming-education|プログラミング教育]]
+- [[overview|石原淳也 — 概要]]
