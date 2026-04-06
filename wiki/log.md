@@ -85,3 +85,11 @@ updated: 2026-04-06
 - Scratch拡張5ページ新規作成: facemesh2scratch, tm2scratch, posenet2scratch, handpose2scratch, tmpose2scratch
 - 全ファイルのwikilinks修正（[[Scratch]]→[[entities/scratch|Scratch]]、[[プロジェクト一覧]]→[[entities/projects|プロジェクト一覧]]等）
 - 著書ページ拡充: 出版情報・ISBN・内容詳細を追加
+
+## [2026-04-07] ingest | ITmedia BizID「ひとりで始めるネットサービス」(2007年)
+
+- URL: https://www.itmedia.co.jp/bizid/articles/0705/23/news096.html
+- 石原淳也が2007年に取材を受けた記事。個人でのWebサービス開発について
+- 判明した初期活動: POPFile日本語化（OSSコントリビュート）、おでかけマペタ（位置情報サービス）、あとで行く（後継サービス）
+- Ruby on Railsとの出会いが開発スタイルを変えたことが語られている
+- overview.mdに「初期のOSS・Webサービス活動」セクションとして追記
