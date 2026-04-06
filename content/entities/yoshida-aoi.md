@@ -48,10 +48,6 @@ updated: 2026-04-07
 
 フェローとして運営に参加。「フィジカルコンピューティング」を研究キーワードに持ち、[[entities/yokokawa-koji|横川耕二]]の[Microbit More](https://microbit-more.github.io/index-ja.html)によるハードウェア連携プログラミングと関心領域が重なる。また[[entities/scratch|Scratch]]・ドリトルに関する教科書を共著しており、[[concepts/programming-education|プログラミング教育]]の実践者としてつくまなラボの教育プログラム設計に貢献している。
 
-## X
-
-[@Aoi_waserou](https://x.com/aoi_waserou)
-
 ## 関連ページ
 
 - [[entities/tukumana-lab|青学つくまなラボ]]
