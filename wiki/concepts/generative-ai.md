@@ -20,7 +20,7 @@ updated: 2026-04-06
 
 ## 関連プロジェクト
 
-- [[ChatGPT2Scratch]] — ChatGPTとScratchの接続（Scratchエコシステムの延長線上）
+- [ChatGPT2Scratch](https://github.com/champierre/chatgpt2scratch) — ChatGPTとScratchの接続（Scratchエコシステムの延長線上）
 - image-mcp-server（★7）— MCPサーバーの実装
 
 ## 関連ページ

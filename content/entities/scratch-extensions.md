@@ -21,7 +21,7 @@ updated: 2026-04-06
 | [[entities/posenet2scratch|PoseNet2Scratch]] | ポーズ検出 × Scratch | 30 |
 | [[entities/handpose2scratch|HandPose2Scratch]] | 手のポーズ検出 × Scratch | 18 |
 | [[entities/tmpose2scratch|TMPose2Scratch]] | Teachable Machine + ポーズ認識 | 6 |
-| [[ChatGPT2Scratch]] | ChatGPT × Scratch | — |
+| [ChatGPT2Scratch](https://github.com/champierre/chatgpt2scratch) | ChatGPT × Scratch | — |
 
 ## ハードウェア制御系
 
