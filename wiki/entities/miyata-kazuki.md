@@ -35,13 +35,16 @@ VR/AR技術の教育応用を中心に、デジタルストーリーテリング
 
 ## つくまなラボとの関わり
 
-フェローとして運営に参加。つくまなラボのワークショップメニューにある**メタバース・VTuber体験**（Meta Quest3、cluster、Unity、VRoid Studio）は宮田の専門であるVR/AR教育と直結する領域。
+フェローとして運営に参加。つくまなラボのワークショップメニューにある**メタバース・VTuber体験**（[Meta Quest3](https://www.meta.com/quest/quest-3/)、[cluster](https://cluster.mu/)、[Unity](https://unity.com/)、[VRoid Studio](https://vroid.com/studio)）は宮田の専門であるVR/AR教育と直結する領域。
 
 ## 石原淳也との関わり
 
-[[entities/tukumana-lab|青学つくまなラボ]]で共にフェロー（総合文化政策学部プロジェクト准教授）を務める同僚。石原淳也がScratch/ML領域、[[entities/yokokawa-koji|横川耕二]]がフィジカルコンピューティング領域を担うのに対し、宮田はVR/AR/メタバース領域を担当しており、つくまなラボのSTEAM教育の幅を広げている。
+[[entities/tukumana-lab|青学つくまなラボ]]で共にフェロー（総合文化政策学部プロジェクト准教授）を務める同僚。石原淳也が[[entities/scratch|Scratch]]/ML領域、[[entities/yokokawa-koji|横川耕二]]がフィジカルコンピューティング領域を担うのに対し、宮田はVR/AR/メタバース領域を担当しており、つくまなラボの[[concepts/programming-education|STEAM教育]]の幅を広げている。
 
 ## 関連ページ
 
 - [[entities/tukumana-lab|青学つくまなラボ]]
+- [[entities/yokokawa-koji|横川耕二]]
+- [[entities/yoshida-aoi|吉田葵]]
+- [[concepts/programming-education|プログラミング教育]]
 - [[overview|石原淳也 — 概要]]
