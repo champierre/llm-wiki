@@ -11,7 +11,7 @@ updated: 2026-04-06
 
 青山学院大学 社会連携推進機構 革新技術共創研究部会が2023年5月に開室したメイカースペース。英語名は **Aoyama Creative Learning Lab**。ミッションは**「創ることで学ぶ」**場を提供し、世代や分野の壁を取り払ってSTEAMプロジェクトに取り組む機会を創出すること。
 
-「創ることで学ぶ」はシーモア・パパートの構築主義（Constructionism）の系譜にある教育思想であり、[[Scratch]]の設計哲学とも深く結びついている。→ [[concepts/programming-education|プログラミング教育]]
+「創ることで学ぶ」はシーモア・パパートの構築主義（Constructionism）の系譜にある教育思想であり、[[entities/scratch|Scratch]]の設計哲学とも深く結びついている。→ [[concepts/programming-education|プログラミング教育]]
 
 ## 基本情報
 

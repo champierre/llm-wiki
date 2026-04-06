@@ -41,9 +41,9 @@ updated: 2026-04-06
 
 主要な拡張機能：
 - [[entities/ml2scratch|ML2Scratch]]（★120） — 画像認識の機械学習をScratchで
-- [[Facemesh2Scratch]]（★41） — 顔メッシュ検出
-- [[TM2Scratch]]（★31） — Google Teachable Machine連携
-- [[PoseNet2Scratch]]（★30） — ポーズ検出
+- [[entities/facemesh2scratch|Facemesh2Scratch]]（★41） — 顔メッシュ検出
+- [[entities/tm2scratch|TM2Scratch]]（★31） — Google Teachable Machine連携
+- [[entities/posenet2scratch|PoseNet2Scratch]]（★30） — ポーズ検出
 - Scratch2Sphero（★24） — ロボット制御
 - ChatGPT2Scratch — 生成AI連携
 

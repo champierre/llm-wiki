@@ -22,10 +22,14 @@ updated: 2026-04-07
 - [[entities/scratch-extensions|Scratchエコシステム]] — Scratch拡張機能群の全体像
 - [[entities/libron|Libron]] — Amazonから図書館蔵書を検索するブラウザ拡張
 - [[entities/books|著書]] — 出版書籍一覧
+- [[entities/projects|プロジェクト一覧]] — 全プロジェクトの網羅的リスト
+- [[entities/scratch|Scratch]] — MITメディアラボのビジュアルプログラミング言語
 
 ### 人物
 - [[entities/abe-kazuhiro|阿部和広]] — 青学大特任教授、Scratch教育の第一人者、つくまなラボ シニア・フェロー
 - [[entities/yokokawa-koji|横川耕二]] — Microbit More開発者、フィジカルコンピューティング、つくまなラボ フェロー
+- [[entities/miyata-kazuki|宮田和樹]] — VR/AR・デジタルストーリーテリング、つくまなラボ フェロー
+- [[entities/yoshida-aoi|吉田葵]] — プログラミング教育・教育工学、つくまなラボ フェロー
 
 ### 組織・コミュニティ
 - [[entities/coderdojo|CoderDojo]] — 子ども向けプログラミング道場（草の根教育の軸）
@@ -44,7 +48,8 @@ updated: 2026-04-07
 | https://blog.champierre.com/ | ブログ | 2026-04-06 |
 | https://github.com/champierre | GitHub | 2026-04-06 |
 | https://sites.google.com/view/tukumanalab/ | Webサイト | 2026-04-06 |
+| https://github.com/champierre/resume | GitHub（レジュメ） | 2026-04-07 |
 
 ---
 
-**ページ数**: 11 | **ソース数**: 3 | **最終更新**: 2026-04-07
+**ページ数**: 15 | **ソース数**: 4 | **最終更新**: 2026-04-07

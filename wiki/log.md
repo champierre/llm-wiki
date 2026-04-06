@@ -63,3 +63,25 @@ updated: 2026-04-06
 - 代表プロジェクト: Microbit More（micro:bitの全機能をScratchから利用可能にする拡張機能の開発者）
 - 石原淳也との関係を「Scratch拡張の二つの方向」（AI/ML vs フィジカルコンピューティング）として構造化
 - 新規作成: entities/yokokawa-koji.md
+
+## [2026-04-07] ingest | github.com/champierre/resume
+
+- GitHubレジュメから石原淳也の完全な経歴を取得
+- 学歴判明: 筑波大学附属駒場中高 → 東京大学工学部機械情報工学科（1995年卒）
+- 職歴年表を大幅更新: iDC国際デジタル通信 → ジェネシス・ジャパン → Genesys米国本社 → ウノウ → 個人事業主 → つくる社LLC → まちクエスト → Geolonia → 青山学院大学
+- 受賞歴追加: Drecom Award on Rails 2006、Mashup Award複数回、カーリルAPIコンテスト準グランプリ
+- overview.md の経歴セクションを年表形式に全面改訂
+
+## [2026-04-07] create | 宮田和樹・吉田葵ページ
+
+- 宮田和樹: researchmap.jpから情報取得。VR/AR・デジタルストーリーテリング専門、つくまなラボフェロー
+- 吉田葵: 青山学院大学教員情報から取得。学習支援システム・教育工学・プログラミング教育専門、津田塾大出身（阿部和広との接点）
+- 新規作成: entities/miyata-kazuki.md, entities/yoshida-aoi.md
+
+## [2026-04-07] create | プロジェクト一覧・Scratchページ + リンク修正
+
+- entities/projects.md: 279リポジトリから主要プロジェクトをカテゴリ別に整理（ML系、ハードウェア系、地理情報系、MCP系等）
+- entities/scratch.md: Scratchの概念ページ（知的系譜、石原淳也との関わり）
+- Scratch拡張5ページ新規作成: facemesh2scratch, tm2scratch, posenet2scratch, handpose2scratch, tmpose2scratch
+- 全ファイルのwikilinks修正（[[Scratch]]→[[entities/scratch|Scratch]]、[[プロジェクト一覧]]→[[entities/projects|プロジェクト一覧]]等）
+- 著書ページ拡充: 出版情報・ISBN・内容詳細を追加
